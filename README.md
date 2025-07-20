@@ -31,8 +31,7 @@ Este projeto foi desenvolvido como parte do meu portfólio front-end, demonstran
 ## 🖼️ Capturas de Tela
 
 <p align="center">
-  <img src="mobile/screenshot-desktop.png" alt="Versão Desktop" width="45%">
-  <img src="mobile/screenshot-mobile.png" alt="Versão Mobile" width="45%">
+  <img src="assets/screenshot-desktop.png" alt="Jarvis" width="100%">
 </p>
 
 ---
@@ -62,7 +61,7 @@ Este projeto foi desenvolvido como parte do meu portfólio front-end, demonstran
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/jarvis-assistant.git
+git clone https://github.com/guibarrosdevv/jarvis_assistent.git
 cd jarvis_assistant
 Abra o arquivo index.html no seu navegador preferido.
 
